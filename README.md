@@ -97,7 +97,7 @@ To train a model on classification, run the following command
 
 *Non-privacy training*
 ```bash
-!python3 train_cifar10.py -net "vgg16" -dataset "cifar10" -epochs 200 -save_weights -gpu
+python3 train_cifar10.py -net "vgg16" -dataset "cifar10" -epochs 200 -save_weights -gpu
 ```
 
 *Privacy training*
@@ -109,7 +109,7 @@ To test a model on classification, run the following command:
 
 *Non-privacy testing*
 ```bash
-!python test_cifar10.py -net "vgg16" -dataset "cifar10" -b 64 -seed 1312 -weights 'path-to-weights' 
+python3 test_cifar10.py -net "vgg16" -dataset "cifar10" -b 64 -seed 1312 -weights 'path-to-weights' 
 ```
 
 *Privacy testing*
