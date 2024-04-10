@@ -8,7 +8,7 @@
     ·
     <a href="https://scholar.google.com/citations?user=d1QOBbYAAAAJ&hl=en&oi=sra" rel="external nofollow noopener" target="_blank"><strong>Jhon Lopez</strong></a>
     ·
-    <a href="https://dblp.org/pid/51/3710-66.html" rel="external nofollow noopener" target="_blank"><strong>Henry Arguello</strong></a>
+    <a href="https://scholar.google.com/citations?user=R7gjbGIAAAAJ&hl=en&oi=ao" rel="external nofollow noopener" target="_blank"><strong>Henry Arguello</strong></a>
     
   </p>
 <p align="center">
